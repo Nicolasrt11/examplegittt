@@ -6,6 +6,8 @@
 
 import random
 
+print("Numero aleatorio entre 1 y 10")
+
 random_numer = random.randint(1,10)
 print(random_numer)
 
